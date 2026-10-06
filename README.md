@@ -42,6 +42,6 @@ Bot con IA integrada y personalidad propia, con permisos de admin para gestionar
 ## ♦ Contacto
 
 - Discord: `imnotaflopper_`
-- Escríbeme por MD contándome el proyecto o el puesto que buscas
+- Escríbeme por MD contándome el proyecto.
 
 <p align="center">♠ ━━━━━━━━━━━━━━━━━━ ♠</p>

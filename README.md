@@ -1,24 +1,29 @@
-<h1 align="center">♠ [Blooper] ♠</h1>
+<h1 align="center">♠ Brubrek ♠</h1>
 <p align="center"><b>Python developer · bots, automatización e IA</b></p>
 <p align="center"><sub>Python · asyncio · SQLite · integración de IA</sub></p>
 
----
+<p align="center">♠ ━━━━━━━━━━━━━━━━━━ ♠</p>
 
 Construyo software con Python. Empecé con **bots de Discord** (economía, juegos, roleplay y paneles de administración) y llevo esa base hacia **automatización, bases de datos e integración de IA**.
 
 ## ♦ Proyectos
 
-| Proyecto | Qué es | Estado |
-|---|---|---|
-| **Kairo** | Bot de casino: economía, ruleta europea, blackjack con cartas dibujadas y panel de administración con menús | [estado] |
-| **Giver System** | Bot de roleplay de GACHIAKUTA: perfiles de personaje, economía, combate con dados, eventos y misiones | En producción |
-| **Flopper** | Bot con IA integrada y personalidad propia, con permisos de admin para gestionar el servidor | [estado] |
+**Kairo** &nbsp; ![En desarrollo](https://img.shields.io/badge/estado-En%20desarrollo-DC143C?style=flat-square)
 
-## ♣ Explorando ahora
+Bot de casino: economía, ruleta europea, blackjack con cartas dibujadas y panel de administración con menús.
 
-- [web y APIs]
-- [automatización]
-- [IA]
+**Giver System** &nbsp; ![Terminado](https://img.shields.io/badge/estado-Terminado-3B1F5C?style=flat-square)
+
+Bot de roleplay de GACHIAKUTA: perfiles de personaje, economía, combate con dados, eventos y misiones.
+
+**Flopper** &nbsp; ![Terminado](https://img.shields.io/badge/estado-Terminado-3B1F5C?style=flat-square)
+
+Bot con IA integrada y personalidad propia, con permisos de admin para gestionar el servidor.
+
+## ♣ Disponible para
+
+- Desarrollo de bots y herramientas a medida con Python
+- Staff en comunidades: moderación, soporte y configuración de servidores
 
 ## ♥ Stack
 
@@ -36,5 +41,7 @@ Construyo software con Python. Empecé con **bots de Discord** (economía, juego
 
 ## ♦ Contacto
 
-- Discord: **[@imnotaflopper_]**
-- Escríbeme por MD contándome el proyecto 
+- Discord: `imnotaflopper_`
+- Escríbeme por MD contándome el proyecto o el puesto que buscas
+
+<p align="center">♠ ━━━━━━━━━━━━━━━━━━ ♠</p>
